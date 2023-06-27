@@ -59,7 +59,7 @@ export default function Home() {
     const options = {
       method: "GET",
       headers: {
-        "X-RapidAPI-Key": "52c65c00e7msh0f1e801692b828bp1f2c4cjsn15f8c9f57a89",
+       
         "X-RapidAPI-Host": "sephora.p.rapidapi.com",
       },
     };
@@ -81,7 +81,7 @@ export default function Home() {
     const options = {
       method: "GET",
       headers: {
-        "X-RapidAPI-Key": "52c65c00e7msh0f1e801692b828bp1f2c4cjsn15f8c9f57a89",
+       
         "X-RapidAPI-Host": "sephora.p.rapidapi.com",
       },
     };
@@ -103,7 +103,7 @@ export default function Home() {
     const options = {
       method: "GET",
       headers: {
-        "X-RapidAPI-Key": "52c65c00e7msh0f1e801692b828bp1f2c4cjsn15f8c9f57a89",
+       
         "X-RapidAPI-Host": "sephora.p.rapidapi.com",
       },
     };
@@ -126,7 +126,7 @@ export default function Home() {
     const options = {
       method: "GET",
       headers: {
-        "X-RapidAPI-Key": "52c65c00e7msh0f1e801692b828bp1f2c4cjsn15f8c9f57a89",
+       
         "X-RapidAPI-Host": "sephora.p.rapidapi.com",
       },
     };
@@ -149,7 +149,7 @@ export default function Home() {
     const options = {
       method: "GET",
       headers: {
-        "X-RapidAPI-Key": "52c65c00e7msh0f1e801692b828bp1f2c4cjsn15f8c9f57a89",
+        
         "X-RapidAPI-Host": "sephora.p.rapidapi.com",
       },
     };
